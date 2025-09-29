@@ -1,0 +1,3 @@
+Tahapan belajar Github :
+1. Belajar Repo
+2. Belajar Commit
